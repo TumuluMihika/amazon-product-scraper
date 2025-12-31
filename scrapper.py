@@ -1,4 +1,4 @@
-# Web Scrape Amazon with Beautiful Soup 📦
+# Web Scrape Amazon with Beautiful Soup 
 
 import requests
 from bs4 import BeautifulSoup
